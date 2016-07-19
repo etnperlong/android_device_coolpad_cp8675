@@ -146,9 +146,8 @@ PRODUCT_PACKAGES += \
     libstlport
 
 # Doze mode
-# PRODUCT_PACKAGES += \
-#   PanyoujieDoze
-# (Depreciated)
+PRODUCT_PACKAGES += \
+    PanyoujieDoze
 
 # Lights
 PRODUCT_PACKAGES += \
